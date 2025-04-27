@@ -1,0 +1,13 @@
+redis-server
+
+-redis data-type
+   String
+   hash
+   list
+   set
+   sorted set
+   hash
+   bitmaps
+   hyperlog
+   geospatial indexes
+
