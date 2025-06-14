@@ -18,6 +18,7 @@ db.on('error', (error) => {
     console.log('MongoDB connection error', error);
 })
 
+
 db.on('disconnected', () => {
     console.log('MongoDB disconnected');
 })
